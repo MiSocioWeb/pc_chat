@@ -1,2 +1,2 @@
-# tweetsplit
-Tweet storm generator
+# Programadores Colobaradores > Viral Proyect
+First Internal Proyect Group #1
